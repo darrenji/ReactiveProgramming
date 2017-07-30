@@ -1,0 +1,9 @@
+D:\demos\RxSamples\RxSamples\bin\Debug\netcoreapp1.1\RxSamples.deps.json
+D:\demos\RxSamples\RxSamples\bin\Debug\netcoreapp1.1\RxSamples.runtimeconfig.json
+D:\demos\RxSamples\RxSamples\bin\Debug\netcoreapp1.1\RxSamples.runtimeconfig.dev.json
+D:\demos\RxSamples\RxSamples\bin\Debug\netcoreapp1.1\RxSamples.dll
+D:\demos\RxSamples\RxSamples\obj\Debug\netcoreapp1.1\RxSamples.csprojResolveAssemblyReference.cache
+D:\demos\RxSamples\RxSamples\obj\Debug\netcoreapp1.1\RxSamples.AssemblyInfo.cs
+D:\demos\RxSamples\RxSamples\bin\Debug\netcoreapp1.1\RxSamples.pdb
+D:\demos\RxSamples\RxSamples\obj\Debug\netcoreapp1.1\RxSamples.dll
+D:\demos\RxSamples\RxSamples\obj\Debug\netcoreapp1.1\RxSamples.pdb
